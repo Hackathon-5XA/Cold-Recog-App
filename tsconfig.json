@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/ResultPage.jsx", "app/layout.js", "app/index.jsx", "app/search.jsx", "app/result.jsx", "app/types.js"  ]
 }
